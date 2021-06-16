@@ -12,7 +12,7 @@ Table of Contents:
 **Network.py**: 
 A convolutional neural network with a policy head and a value head written in Tensorflow
 
-**MCTS_player.py**:
+**mcts_alpha.py**:
 A monte carlo tree search player that makes decision for every move
 
 **Human_play.py**:
