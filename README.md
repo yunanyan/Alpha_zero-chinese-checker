@@ -16,13 +16,13 @@ A convolutional neural network with a policy head and a value head written in Te
 A monte carlo tree search player that makes decision for every move
 
 **Human_play.py**:
-A human vs human interface
+A human vs human interface, PLAY WITH YOUR FRIEND
 
 **Play.py**:
-A human vs AI interface
+A human vs AI interface, PLAY WITH AI
 
 **Train.py**:
-Training of the AI from selfplay
+Training of the AI from selfplay, AI SELF-PLAY. Visualization available
 
 **Required packages**:
 
